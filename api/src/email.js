@@ -46,7 +46,7 @@ export default class Email {
         const message = _.get(post,'message', '');
         const postId = _.get(post,'_id');
         
-        const downloadLink = `http://localhost:3006/share/${postId}`
+        const downloadLink = `https://hidden-dawn-10078.herokuapp.com/share/${postId}`
         
         console.log(from + to + message + postId);
         console.log("inside senddownload");

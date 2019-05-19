@@ -1,12 +1,12 @@
 var express = require('express');
 var app = express();
 var port = process.env.PORT || 8006
-app.use(express.static(__dirname));
+// app.use(express.static(__dirname));
 const path = require('path');
 
-const in = require('./src/index.js');
+const ind = require('./src/index.js');
 
-app.use('/',in);
+app.use('/',ind);
 // app.get('/', function (req, res) {
 //   res.send('index'); // This will serve your request to '/'.
 // });

@@ -33,6 +33,6 @@ export const smtp = {
 
 
 
-export const url = 'http://localhost:3006';
+export const url = 'https://hidden-dawn-10078.herokuapp.com/';
 
 
