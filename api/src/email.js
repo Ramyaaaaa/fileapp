@@ -26,7 +26,7 @@ export default class Email {
     auth: {
       
       user: 'ramyas2898@gmail.com', // generated ethereal user
-      pass: 'googlechrome!'
+      pass: '******'
 
         // user: 'apikey', // generated ethereal user
         // pass: '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'  // generated ethereal password
