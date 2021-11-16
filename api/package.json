@@ -29,7 +29,7 @@
   "license": "ISC",
   "dependencies": {
     "archiver": "^3.0.0",
-    "aws-sdk": "^2.441.0",
+    "aws-sdk": "^2.814.0",
     "body-parser": "^1.18.2",
     "cors": "^2.8.4",
     "express": "^4.16.2",
